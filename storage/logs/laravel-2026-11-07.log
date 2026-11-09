@@ -1,0 +1,16 @@
+[2026-11-07 11:14:26] live.EMERGENCY: File:/home/u711616453/domains/hycodeerp.cloud/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Creator.phpLine:690Message:Not enough data available to satisfy format  
+[2026-11-07 14:50:39] live.EMERGENCY: File:/home/u711616453/domains/hycodeerp.cloud/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:598Message:No query results for model [App\Variation].  
+[2026-11-07 18:38:03] live.EMERGENCY: File:/home/u711616453/domains/hycodeerp.cloud/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:598Message:No query results for model [App\Variation].  
+[2026-11-07 20:08:03] live.EMERGENCY: File:/home/u711616453/domains/hycodeerp.cloud/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:598Message:No query results for model [App\Variation].  
+[2026-11-07 20:08:10] live.EMERGENCY: File:/home/u711616453/domains/hycodeerp.cloud/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:598Message:No query results for model [App\Variation].  
+[2026-11-07 20:20:13] live.EMERGENCY: File:/home/u711616453/domains/hycodeerp.cloud/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:598Message:No query results for model [App\Variation].  
+[2026-11-07 20:20:21] live.EMERGENCY: File:/home/u711616453/domains/hycodeerp.cloud/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:598Message:No query results for model [App\Variation].  
+[2026-11-07 20:35:33] live.EMERGENCY: File:/home/u711616453/domains/hycodeerp.cloud/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Creator.phpLine:690Message:Hour cannot be higher than 12
+Not enough data available to satisfy format  
+[2026-11-07 20:36:18] live.EMERGENCY: File:/home/u711616453/domains/hycodeerp.cloud/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:598Message:No query results for model [App\Variation].  
+[2026-11-07 20:44:34] live.EMERGENCY: File:/home/u711616453/domains/hycodeerp.cloud/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Creator.phpLine:690Message:Hour cannot be higher than 12
+Not enough data available to satisfy format  
+[2026-11-07 21:36:05] live.EMERGENCY: File:/home/u711616453/domains/hycodeerp.cloud/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:598Message:No query results for model [App\Variation].  
+[2026-11-07 21:36:14] live.EMERGENCY: File:/home/u711616453/domains/hycodeerp.cloud/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:598Message:No query results for model [App\Variation].  
+[2026-11-07 22:45:01] live.EMERGENCY: File:/home/u711616453/domains/hycodeerp.cloud/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:598Message:No query results for model [App\Variation].  
+[2026-11-07 23:05:41] live.EMERGENCY: File:/home/u711616453/domains/hycodeerp.cloud/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.phpLine:598Message:No query results for model [App\Variation].  
